@@ -2,9 +2,9 @@
 
 This Bug Tracking System (BTS) provides a structured way to report, track, and manage bugs for software projects. It features MySQL database connectivity and consists of four main modules: Login, Admin, Expert, and Customer. Each module is designed to handle specific roles and responsibilities, ensuring a streamlined bug management process.
 
-#Modules
+# Modules
 
-#1. Login Module
+# 1. Login Module
 The Login Module handles authentication and registration for employees and customers. It includes functionalities for logging in as an employee or customer, as well as customer signup.
 
 Key Functions:
@@ -13,7 +13,7 @@ Key Functions:
 - customersignup: Facilitates customer registration by inserting new customer data into the database.
 - mainMenu: Displays the main menu and handles user input for login or signup actions.
 
-#2. Admin Module
+# 2. Admin Module
 The Admin Module allows administrators to manage customer and employee records, as well as oversee bug assignments.
 
 Key Functions:
